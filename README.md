@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-<h4 align="center">GUI Calculator with basic math functions and Trigonometric functions in Java & Swing by using stack data structure.</h4>
+<h4 align="center">This is a console based application to represents the basic operations of a bank.</h4>
 
 <p align="center">
   <a href="https://"><img src="https://img.shields.io/badge/language-Java-2ea44f?logo=java" alt="language - Java"></a>
